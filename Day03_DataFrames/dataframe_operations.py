@@ -12,6 +12,9 @@ df = spark.read.csv(
     inferSchema=True
 )
 
+    
+
+
 print("=====Employees Data=====")
 df.show()
 
