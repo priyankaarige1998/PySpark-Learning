@@ -1,3 +1,4 @@
+# Demonstrates department-wise and company-wide aggregations
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import avg, max, min, sum
 
