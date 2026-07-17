@@ -1,0 +1,11 @@
+# PySpark output folders
+Day08_File_Formats/output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Spark temporary files
+.sparkStaging/
+metastore_db/
+derby.log
